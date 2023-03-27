@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  p {
+    text-align: center;
+  }
+  
+  button {
+    font-size: 1.5em;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  button:hover {
+    background-color: #ccc;
+  }
+  
+  #countdown-timer {
+    font-size: 2em;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  #click-count {
+    font-size: 2em;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
